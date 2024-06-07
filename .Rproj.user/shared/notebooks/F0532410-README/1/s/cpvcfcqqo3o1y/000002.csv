@@ -1,0 +1,4 @@
+"0","viewer <- getOption(""viewer"")"
+"0","viewer(""https://rmarkdown.rstudio.com/lesson-2.html"", "
+"0","       height = ""maximize"")"
+"0","rstudioapi::navigateToFile(""1-example.Rmd"")"
